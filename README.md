@@ -8,11 +8,26 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
+### Who am I?
+
+mockmockmock
+
+</td>
+<td width="50%">
+
 ### Currently
 
 * Working with clients: Kill Parkinsson, Preeklampsi.se and more.
 * Maintaining my bigger projects Luzzle and TEAL.
 * Optimizing my Linux environments (Desktop, Laptop, VPS)
+
+</td>
+</tr>
+</table>
 
 ---
 
