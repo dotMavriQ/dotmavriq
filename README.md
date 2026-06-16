@@ -1,4 +1,4 @@
-<a href="https://blog.dotmavriq.life"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="120" align="right" /></a>
+<a href="https://blog.dotmavriq.life" target="_blank"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="120" align="right" /></a>
 
 <div align="center">
 
