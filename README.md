@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer · CMS · DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,lua,php,py,bash,linux,git,neovim,nodejs,docker,postgres,react,tailwind,redis,go,astro,kubernetes,laravel&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,astro,svelte,docker,css,html,go,kubernetes,react,nodejs,cypress,postgres,mastodon,tailwind,neovim,bash,lua,php,laravel,bun,redis,githubactions,git,py,cloudflare,linux&perline=9)](https://skillicons.dev)
 
 ---
 
