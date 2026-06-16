@@ -21,7 +21,7 @@ Jonatan, Software Engineer from Lidköping, Sweden. Now living in Portugal with 
 
 ### Currently
 
-* Working with clients: Kill Parkinsson, Preeklampsi.se and more.
+* Working with clients: [Kill Parkinsson](https://killparkinsson.com), [Preeklampsi.se](https://preeklampsi.se) and more.
 * Maintaining my bigger projects Luzzle and TEAL.
 * Optimizing my Linux environments (Desktop, Laptop, VPS)
 
