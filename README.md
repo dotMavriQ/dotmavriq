@@ -1,4 +1,6 @@
-<a href="https://blog.dotmavriq.life" target="_blank"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="120" align="right" /></a>
+<div style="position: relative;">
+
+<a href="https://blog.dotmavriq.life" target="_blank"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="120" style="position: absolute; top: 0; right: 0; z-index: 999;" /></a>
 
 <div align="center">
 
@@ -19,5 +21,7 @@
 ---
 
 <sub>powered by 🍵 and curiosity</sub>
+
+</div>
 
 </div>
