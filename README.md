@@ -8,28 +8,19 @@
 
 ---
 
-<table>
-<tr>
-<td>
-
 ### Who am I?
 
-Jonatan, Software Engineer from Lidköping, Sweden. Now living in Portugal with my partner. I have spent the last decade working with Web Development and DevOps, primarily CMS Development (WordPress, Joomla, Magento, JS SSG's) and handling enterprise MarTech stacks but also creating customized performant solutions utilizing TS/JS, PHP and Python. I enjoy cross-functional team collaboration, ownership and being the one who provides an improved engineering solution. Used to own projects (even leading teams on occasion!) and figuring out the best solutions within existing constraints.
+Jonatan, Swedish Software Engineer living in Portugal with my partner. My dad gave me a Compaq Pressario 486 before I had joined pre-school and it turned out the way that it did. I started making games in Mark Overmars GameMaker at 8 and fell in love with the instant gratification of making websites shortly thereafter. At 16 I tried Linux for the very first time. Now I have a career in Web Development lasting over a decade! My specialization has been in building, tailoring, maintaining and securing CMS-systems for clients of every range as well as their associated MarTech stacks. I have also built scripting, middleware and handled IaC infra and I'm very comfortable in the terminal. I love environments with cross-functional teams and opportunities with ownership so I can figure out the best solutions within existing constraints.
 
-When I'm not on the clock I enjoy creating software that does what I want it to and I release most of it under AGPL-3 or MIT licensing such as Luzzle, a pocketknife productivity app built using the TAN Stack and TEAL, a Laravel app that allows you to self-host all of the media you track (Movies, Comics, Games etc).. oh, and I love coding in Lua as of lately!
+When I'm not on the clock I enjoy creating tools should exist but don't under AGPL-3 or MIT licensing such as Luzzle, a pocketknife productivity app built using the TAN Stack and TEAL, a Laravel app that allows you to self-host all of the media you track (Movies, Comics, Games etc).. oh, and I love coding in Lua whenever I have the chance!
 
-</td>
-<td>
 
-### Currently
+### Currently working on:
 
-* Working with clients: [Kill Parkinsson](https://killparkinsson.com), [Preeklampsi.se](https://preeklampsi.se) and more.
-* Maintaining my bigger projects Luzzle and TEAL.
+* Part-time endeavors: [Kill Parkinsson](https://killparkinsson.com), [Preeklampsi.se](https://preeklampsi.se) and more.
+* Maintaining my bigger projects Luzzle and Teal.
 * Optimizing my Linux environments (Desktop, Laptop, VPS)
-
-</td>
-</tr>
-</table>
+* Sharpening my Pi setup (gotta stay on top with the agentic stuff...)
 
 ---
 
