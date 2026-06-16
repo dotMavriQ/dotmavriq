@@ -14,7 +14,7 @@
 
 ### Who am I?
 
-<p>Jonatan, Software Engineer from Lidköping, Sweden. Now living in Portugal with my partner. I have spent the last decade working with Web Development and DevOps, primarily CMS Development (WordPress, Joomla, Magento, JS SSG's) but also customized performant solutions utilizing TS/JS, PHP and Python. I enjoy cross-functional team collaboration, ownership and being the one who provides an improved engineering solution. Used to projecting (even leading teams on occasion!), timeblocking and figuring out the best solutions within existing constraints.</p>
+Jonatan, Software Engineer from Lidköping, Sweden. Now living in Portugal with my partner. I have spent the last decade working with Web Development and DevOps, primarily CMS Development (WordPress, Joomla, Magento, JS SSG's) but also customized performant solutions utilizing TS/JS, PHP and Python. I enjoy cross-functional team collaboration, ownership and being the one who provides an improved engineering solution. Used to projecting (even leading teams on occasion!), timeblocking and figuring out the best solutions within existing constraints.
 
 </td>
 <td>
