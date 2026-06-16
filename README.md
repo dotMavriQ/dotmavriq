@@ -1,3 +1,5 @@
+<a href="https://blog.dotmavriq.life"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="180" align="right" /></a>
+
 <div align="center">
 
 # Jonatan Jansson
@@ -15,8 +17,6 @@
 * Optimizing my Linux environments (Desktop, Laptop, VPS)
 
 ---
-
-<a href="https://blog.dotmavriq.life"><img src="paredeecarcavelos.png" alt="Parede e Carcavelos" width="180" align="right" /></a>
 
 <sub>powered by 🍵 and curiosity</sub>
 
