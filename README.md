@@ -8,15 +8,16 @@
 
 ---
 
-<div style="display: flex; gap: 2rem; justify-content: space-between; width: 100%;">
-<div style="flex: 1;">
+<table>
+<tr>
+<td>
 
 ### Who am I?
 
 mockmockmock
 
-</div>
-<div style="flex: 1;">
+</td>
+<td>
 
 ### Currently
 
@@ -24,8 +25,9 @@ mockmockmock
 * Maintaining my bigger projects Luzzle and TEAL.
 * Optimizing my Linux environments (Desktop, Laptop, VPS)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
